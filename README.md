@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @william-linville
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Python and R studio
-- 💞️ I’m looking to collaborate on statistical problems
-- 📫 How to reach me wlinville26@gmail.com
+Hello, I’m @william-linville a senior studying business analytics and finacne at the University of Kansas. I’m interested in data analysis and the statistics involved with my findings. I’m currently learning Python, R studio and SQL to work with raw data to interpret and visualize results. You can reach me at wlinville26@gmail.com.
 
 <!---
 william-linville/william-linville is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
